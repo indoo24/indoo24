@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Mohamed Qandeel</h1>
-<h3 align="center">Mobile App Developer | Flutter | Android Developer</h3>
+<h3 align="center">Software Engineer | Flutter Developer | Android Developer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif" alt="coding-banner" />
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yaso.kandeel11@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:EU:239dad12-5b72-4d56-8beb-c5d81edd5f5a](https://acrobat.adobe.com/id/urn:aaid:sc:EU:239dad12-5b72-4d56-8beb-c5d81edd5f5a)
+- 📄 Know about my experiences [[https://acrobat.adobe.com/id/urn:aaid:sc:EU:239dad12-5b72-4d56-8beb-c5d81edd5f5a](https://acrobat.adobe.com/id/urn:aaid:sc:EU:239dad12-5b72-4d56-8beb-c5d81edd5f5a](https://acrobat.adobe.com/id/urn:aaid:sc:EU:dd10f914-d80a-4968-abf0-2e35e3e0dbcb))
 
   <html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"></body></html>
 
